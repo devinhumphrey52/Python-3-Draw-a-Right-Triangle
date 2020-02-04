@@ -1,2 +1,2 @@
-# Python-3-Draw-a-Right-Triangle
+# Python3_Right_Triangle
 A simple console based program that draws a Right Triangle
